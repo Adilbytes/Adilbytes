@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Muhammed Adil 👋  
+### MERN Stack Developer | Student of Modern Web Technologies
 
-<!--
-**Adilbytes/Adilbytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate student learning and building with the **MERN stack**.  
+I love creating clean, responsive, and interactive web experiences while exploring new technologies in **AI, Web Development, and Web Design**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+**Languages & Frameworks**  
+- JavaScript  
+- React.js  
+- Node.js  
+- Next.js  
+- Three.js  
+
+**Styling & UI**  
+- Tailwind CSS  
+- HTML / CSS  
+
+---
+
+## 🔥 Interests  
+- AI & Emerging Web Technologies  
+- Frontend & Backend Development  
+- Creative & Functional Web Design  
+
+---
+
+## 📚 Currently Learning  
+- Advanced MERN stack concepts  
+- Building real-world projects with Next.js  
+- Integrating AI tools into web applications  
+
+---
+
+## 📈 Goals  
+- Become a professional MERN Stack Developer  
+- Build impactful full-stack projects  
+- Contribute to open-source  
+
+---
+
+### 📫 Connect With Me  
+- **LinkedIn:** [Muhammed Adil](https://www.linkedin.com/in/muhammed-adil-b6a623365/)
+
