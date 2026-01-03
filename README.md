@@ -52,18 +52,7 @@ I love blending **creativity + code** to make fun, interactive experiences for u
 
 ---
 
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-adil&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammed-adil&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-adil&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
 
 ## 📫 Connect With Me  
 👉 **LinkedIn:** [Muhammed Adil](https://www.linkedin.com/in/muhammed-adil-b6a623365/)  
